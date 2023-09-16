@@ -1,0 +1,27 @@
+ul
+{
+    list-style-type:none;
+    text-align:right;
+}
+.menu
+{
+    display:inline;
+    margin-left:20px;
+}
+#signin
+{
+    background-color:rgba(13, 9, 215, 0.8);
+    padding:15px;
+    border-radius:5px;
+    text-decoration-line:none;
+}
+.dec
+{
+    text-decoration:none;
+    color:black;
+}
+.dec:hover
+{
+    text-decoration-line:underline;
+    text-decoration-color:black;
+}
