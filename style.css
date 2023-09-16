@@ -25,3 +25,24 @@ ul
     text-decoration-line:underline;
     text-decoration-color:black;
 }
+.p1:hover
+{
+    background-color:azure;
+}
+.lan
+{
+    text-decoration-line:none;
+    margin-left:10px;
+}
+.lan:hover
+{
+    text-decoration-line:underline;
+}
+.p2
+{
+    display:inline-block;
+}
+.p3
+{
+    display:inline-block;
+}
